@@ -1,2 +1,2 @@
 # git.demo
-study use gethub
+study use github
